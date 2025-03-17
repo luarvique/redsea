@@ -1,3 +1,9 @@
+redsea (1.1) stable; urgency=low
+
+  * Updating package with the latest upstream changes.
+
+ -- Marat Fayzullin <luarvique@gmail.com>  Mon, 17 Mar 2025 06:34:02 +0300
+
 redsea (1.0) stable; urgency=low
 
   * First packaged release.
